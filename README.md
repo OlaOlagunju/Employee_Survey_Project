@@ -12,3 +12,5 @@ After exploring, cleaning and analyzing the data, it was concluded that for ques
 
 For question 2, there is only one outlier in the different ages. Resignations of people who were 20 or below had a roughly 20% dissatisfaction rate whilst all other age groups were between 40% and 50%. This could be realted to question number 1 because the 20 and below employees have much less time to grow dissatisfied. However, we only have a sample size of 10 for employees who were less than 20 so it is dangerous to read too much into this outlier. On the whole, age has little affect on the likelihood of resigning due to dissatisfaction.
 
+![](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/fig_1.png)
+![](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/fig_2.png)
