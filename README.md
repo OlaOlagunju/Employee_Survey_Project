@@ -1,6 +1,6 @@
 # Analyzing Employee Exit Surveys
 
-[](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/Full%20Project%20-%20Analyzing%20Employee%20Exit%20Surveys.ipynb)
+[Full Project Link](https://github.com/OlaOlagunju/Employee_Survey_Project/blob/main/Full%20Project%20-%20Analyzing%20Employee%20Exit%20Surveys.ipynb)
 
 ## Summary
 This project deals with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
